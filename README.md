@@ -7,6 +7,7 @@
 - [개인정보처리방침](privacy_policy.md) (Privacy Policy)
 - [이용약관](terms_of_service.md) (Terms of Service)
 - [면책 조항](disclaimer.md) (Disclaimer)
+- [고객 지원](support.md) (Support)
 - [개인정보 수집 정리 (내부 참고용)](privacy_data_inventory.md)
 
 ## 공개 URL
